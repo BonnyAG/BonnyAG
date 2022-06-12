@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BonnyAG
-- 🌱 I’m currently learning Javascript and Statamic
+- 🌱 I’m currently learning Javascript, Statamic, Swift, and Swift UI
 - 💼 I've worked on: powellindustries.com
 - 📫 How to reach me: agbonnyh@gmail.com
 
